@@ -1,7 +1,5 @@
 # Fake-Job-Internship-Detector
 
-# Fake Job Detection System
-
 ## 📌 Overview
 The **Fake Job Detection System** is a machine learning-powered application designed to identify fraudulent job postings. Using **Natural Language Processing (NLP)** and **Machine Learning**, it analyzes job descriptions to detect potential scams, helping job seekers avoid fraudulent offers.
 
